@@ -1,0 +1,8 @@
+docker-compose build -> build an image 
+
+
+
+
+
+
+
